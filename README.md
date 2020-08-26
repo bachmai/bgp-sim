@@ -1,5 +1,4 @@
-# CS3700-Project2
-CS3700 Project2: Simple BGP Router
+#Simple BGP (Border Gateway Protocol) Router
 
 ### High-level approach
 
